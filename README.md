@@ -17,8 +17,8 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="www.linkedin.com/in/santiago-aristizabal-sepulveda-b30981264" target="blank"><img align="center" src="https://img.shields.io/badge/Santiago%20Aristizabal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  
-<a href="mailto:santiagoar@partnerhelper.com" target="blank"><img align="center" src="https://img.shields.io/badge/santiago.aristizabal2@utp.edu.co-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       
+<a href="https://www.linkedin.com/in/santiago-aristizabal-sepulveda-b30981264/" target="blank"><img align="center" src="https://img.shields.io/badge/Santiago%20Aristizabal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  
+<a href="mailto:santiago.aristizabal2@utp.edu.co" target="blank"><img align="center" src="https://img.shields.io/badge/santiago.aristizabal2@utp.edu.co-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       
 <a href="https://github.com/SantiaAristi" target="blank"><img align="center" src="https://img.shields.io/badge/SantiagoAristizabal-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
@@ -37,8 +37,8 @@
 <h1>Tools I use! 🛠️</h1>
 <Br>
  
-|![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)|![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)|![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)|![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)|![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)|
-|---|---|---|---|---|
+|![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)|![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)|![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)|![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)|![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)|![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)|![](https://img.shields.io/badge/Microsoft%20Portals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)|![](https://img.shields.io/badge/Canvas%20App-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)|
+|---|---|---|---|---|---|---|---|
   
 
 <Br>
@@ -49,15 +49,6 @@
 
 - **Ingeniería de Sistemas y Computación** – Universidad Tecnológica de Pereira, Colombia (2022 - Presente)
 - **Coding Bootcamp Fullstack "Piscina-UTP"** (2022 - 2023)
-
-<Br>
-<hr>
-<Br>
-<h1>Certifications! 🏆</h1>
-<Br>
-  
-|![](https://img.shields.io/badge/Aptis%20English%20Certificate-B1-blue?style=for-the-badge)|![](https://img.shields.io/badge/Fullstack%20Development-orange?style=for-the-badge)|
-|---|---|
    
   
 <Br>
